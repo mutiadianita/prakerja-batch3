@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    background-color: blue;
+}
+.text-blue {
+    color: blue;
+}
+#header {
+    font-size: 24px;
+}
+p {
+    color: yellow;
+}
+/* This is a comment */
